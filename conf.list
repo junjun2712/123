@@ -1,0 +1,6 @@
+"http://grafana.idc.com/d/AStZWiv7k/domain-network-availability?orgId=1&refresh=10s&from=now-3h&to=now&var-env=prod&var-target=ak.1y6om52.com&var-location=All&var-cdn=All&var-interval=10s&var-response_time=0"
+"http://grafana.idc.com/d/AStZWiv7k/domain-network-availability?orgId=1&refresh=10s&from=now-3h&to=now&var-env=proddy&var-target=ak.muyingzhibo.com&var-location=All&var-cdn=All&var-interval=10s&var-response_time=0"
+"http://grafana.idc.com/d/AStZWiv7k/domain-network-availability?orgId=1&refresh=10s&from=now-3h&to=now&var-env=prod-v2&var-target=ak.3m5lhxb.com&var-location=All&var-cdn=All&var-interval=10s&var-response_time=0"
+"http://grafana.idc.com/d/zB17ddIMk/tcp-status-all-in-one?orgId=1&refresh=30s"
+"http://grafana.idc.com/d/zB17ddIMk/tcp-status-all-in-one?orgId=1&refresh=30s&var-env=proddy&var-group=All&var-target=All&var-interval=5s"
+"http://grafana.idc.com/d/zB17ddIMk/tcp-status-all-in-one?orgId=1&refresh=30s&var-env=prod-v2&var-group=All&var-target=All&var-interval=5s"
